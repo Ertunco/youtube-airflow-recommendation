@@ -1,7 +1,7 @@
 import yaml
 import argparse
 import sys
-sys.path.append("/Users/osmanertunc/Desktop/wspace/youtube/youtube_airflow")
+sys.path.append("path/to/parent/folder")
 import video_picker as vp
 
 
