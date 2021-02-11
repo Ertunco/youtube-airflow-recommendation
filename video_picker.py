@@ -9,7 +9,6 @@ pd.set_option('display.max_row', 10)
 # Set dataframe max column width to 20
 pd.set_option('display.max_columns', 20)
 
-# YOUTUBE_API_KEY = "AIzaSyB7gootWudo0vwEOoyfpFwfAQWgt5izvgw"
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
 TODAY_DATE = date.today()
