@@ -14,7 +14,7 @@ def load_yaml(filepath):
             print(exc)
 
 def run_youtube_etl():
-    search_term = "Experian"
+    search_term = "keyword_to_search"
     search_period = 7
     config = load_yaml('./config.yaml')
     start_date_string = vp.get_start_date_string(search_period)
